@@ -1,0 +1,3 @@
+== README
+
+This app shows you how to implement twitter_bootstrap to your rails project. I have updated the application.html.erb file to better style the products page. This is based on RailsCast #382.
